@@ -1,4 +1,4 @@
-local Fluent = loadstring(game:HttpGet("https://pastefy.app/jZjM4xtv/raw"))()
+local Fluent = loadstring(game:HttpGet("https://raw.githubusercontent.com/scripter657-bot/Key/refs/heads/main/UI"))()
 
 local Window = Fluent:CreateWindow({
     Title = "Nebula | Blade Ball",
